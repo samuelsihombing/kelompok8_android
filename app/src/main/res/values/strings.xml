@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kelompok8</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="title_home">title_home</string>
+    <string name="keranjang">keranjang</string>
+    <string name="akun">akun</string>
+    <string name="produk_tersedia">Produk Tersedia</string>
+    <string name="kelompok8_gmail_com">kelompok8@gmail.com</string>
+    <string name="rp_10_000">Rp.10.000</string>
+    <string name="home">home</string>
+
+</resources>
